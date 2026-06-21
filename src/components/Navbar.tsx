@@ -81,7 +81,7 @@ export default function Navbar() {
             <div className="flex items-center justify-center transition-transform duration-300 group-hover:scale-105">
               <Image src={logoImg} alt="Sri Venkateshwara Infra Tech Logo" width={80} height={80} className="object-contain" />
             </div>
-            <div className="hidden sm:block text-left">
+            <div className="text-left">
               <p className="text-lg font-bold leading-tight tracking-wide text-navy font-heading">
                 Sri Venkateshwara
               </p>
